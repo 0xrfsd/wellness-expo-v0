@@ -1,0 +1,10 @@
+import styled from 'styled-components/native'
+
+export const Wrapper = styled.ScrollView`
+  flex: 1;
+  background: #fff;
+`;
+
+export const Press = styled.TouchableOpacity`
+  background: #000;
+`;
